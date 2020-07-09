@@ -1,4 +1,4 @@
-def my_hash { "car" => "Mustang" , "truck" => "Explorer" , "bike" => "Mongoose" }
+def my_hash { "summer" => "July" , "winter" => "January" , "spring" => "March" }
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
 
